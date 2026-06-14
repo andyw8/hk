@@ -1,5 +1,30 @@
 # Changelog
 
+## [1.48.1](https://github.com/jdx/hk/compare/v1.48.0..v1.48.1) - 2026-06-14
+
+### 🐛 Bug Fixes
+
+- **(stash)** preserve tail deletion after overlapping worktree hunk by [@jdx](https://github.com/jdx) in [#990](https://github.com/jdx/hk/pull/990)
+
+### 📚 Documentation
+
+- link to all sponsors by [@jdx](https://github.com/jdx) in [#991](https://github.com/jdx/hk/pull/991)
+- clarify contribution fit by [@jdx](https://github.com/jdx) in [#992](https://github.com/jdx/hk/pull/992)
+
+### 🛡️ Security
+
+- **(deps)** update actions/checkout action to v6.0.3 by [@renovate[bot]](https://github.com/renovate[bot]) in [#984](https://github.com/jdx/hk/pull/984)
+
+### 🔍 Other Changes
+
+- **(ci)** bump pr-closer action by [@jdx](https://github.com/jdx) in [#989](https://github.com/jdx/hk/pull/989)
+- **(ci)** use shared coderabbit config by [@jdx](https://github.com/jdx) in [#993](https://github.com/jdx/hk/pull/993)
+
+### 📦️ Dependency Updates
+
+- update jdx/mise-action action to v4.1.0 by [@renovate[bot]](https://github.com/renovate[bot]) in [#987](https://github.com/jdx/hk/pull/987)
+- update anthropics/claude-code-action action to v1.0.137 by [@renovate[bot]](https://github.com/renovate[bot]) in [#986](https://github.com/jdx/hk/pull/986)
+
 ## [1.48.0](https://github.com/jdx/hk/compare/v1.47.0..v1.48.0) - 2026-06-11
 
 ### 🚀 Features
